@@ -1,0 +1,11 @@
+{
+  "name": "mathematical-pkg-jufra",
+  "version": "1.0.1",
+  "description": "Mathematical package with basic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jufraas",
+  "license": "ISC"
+}
