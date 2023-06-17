@@ -1,2 +1,2 @@
 # mathematical-pkg-jufra
-Mathematical-pkg-jufra es una biblioteca matemática básica que gestiona operaciones básicas
+Mathematical-pkg-jufra is a basic math library that handles basic operations
