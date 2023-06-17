@@ -3,9 +3,14 @@
   "version": "1.0.1",
   "description": "Mathematical package with basic operations",
   "main": "index.js",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jufraas/mathematical-pkg-jufra"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jufraas",
-  "license": "ISC"
+  "license": "MIT"
 }
