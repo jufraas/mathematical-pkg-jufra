@@ -3,14 +3,18 @@
   "version": "1.0.1",
   "description": "Mathematical package with basic operations",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://github.com/jufraas/mathematical-pkg-jufra#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jufraas/mathematical-pkg-jufra"
+    "url": "git+https://github.com/jufraas/mathematical-pkg-jufra.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jufraas",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jufraas/mathematical-pkg-jufra/issues"
+  },
+  "keywords": []
 }
